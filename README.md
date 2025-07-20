@@ -18,7 +18,8 @@
 
 - 👤 **Tên**: Trần Hán Quân 
 - 🎂 **Tuổi**: 23  
-- 📍 **Quê quán**: Ha Nam(Nam Dinh), Việt Nam  
+- 📍 **Quê quán**: Ha Nam(Nam Dinh), Việt Nam
+- 📍 **Nơi ở hiện tại**: Thanh Xuân, Hà Nội  
 - 💼 **Nghề nghiệp**: Lập trình viên Reactjs, Nodejs.
 
 ---
@@ -64,6 +65,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
