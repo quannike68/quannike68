@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5nYXV2ZTJoazF6MGlscmt1ZGpiM3l5bm1tZzZzeXpxanhla3JidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/U1yecobBkpszvtXoqz/giphy.gif" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5nYXV2ZTJoazF6MGlscmt1ZGpiM3l5bm1tZzZzeXpxanhla3JidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/U1yecobBkpszvtXoqz/giphy.gif" width="200"/>
 </p>
 <h1 align="center">👋 Xin chào! Tôi là Quân</h1>
 
