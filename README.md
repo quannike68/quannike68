@@ -1,7 +1,9 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5nYXV2ZTJoazF6MGlscmt1ZGpiM3l5bm1tZzZzeXpxanhla3JidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/U1yecobBkpszvtXoqz/giphy.gif" />
+</p>
 
 
-- 💬 Ask me about ...<h1 align="center">👋 Xin chào! Tôi là Quan Trần</h1>
+- 💬 Ask me about ...<h1 align="center">👋 Xin chào! Tôi là Quân</h1>
 
 <p align="center">
   <strong><span style="font-size: 24px;">🔥 LẬP TRÌNH VIÊN REACT FRONTEND 🔥</span></strong>
