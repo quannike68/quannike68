@@ -4,7 +4,7 @@
 - 💬 Ask me about ...<h1 align="center">👋 Xin chào! Tôi là Quan Trần</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Lập+trình+viên+React+%F0%9F%92%BB;Yêu+thích+Frontend+và+UI/UX+Design;Luôn+muốn+học+hỏi+và+phát+triển" />
+  <strong><span style="font-size: 24px;">🔥 LẬP TRÌNH VIÊN REACT FRONTEND 🔥</span></strong>
 </p>
 
 
@@ -19,7 +19,7 @@
 - 👤 **Tên**: Trần Hán Quân 
 - 🎂 **Tuổi**: 23  
 - 📍 **Quê quán**: Ha Nam(Nam Dinh), Việt Nam  
-- 💼 **Nghề nghiệp**: Lập trình viên React Frontend
+- 💼 **Nghề nghiệp**: Lập trình viên Reactjs, Nodejs.
 
 ---
 
@@ -62,10 +62,9 @@
 
 ### 🤝 Kết nối với tôi
 
-- 🌐 [Portfolio của tôi](https://your-portfolio-link.com)
-- 💌 Email: your-email@gmail.com
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 💼 LinkedIn: [your-name](https://linkedin.com/in/your-name)
+- 📞 **SĐT**: 0353 536 335  
+- 📧 **Email**: quannike68@gmail.com 
+- 👤 [Facebook](https://www.facebook.com/quan.nike)  
 
 ---
 
