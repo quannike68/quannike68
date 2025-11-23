@@ -18,8 +18,8 @@
 
 - 👤 **Tên**: Trần Hán Quân 
 - 🎂 **Tuổi**: 23  
-- 📍 **Quê quán**: Ha Nam(Nam Dinh), Việt Nam
-- 📍 **Nơi ở hiện tại**: Thanh Xuân, Hà Nội  
+- 📍 **Quê quán**: Ninh Bình(Hà Nam), Việt Nam
+- 📍 **Nơi ở hiện tại**: Hà Đông, Hà Nội  
 - 💼 **Nghề nghiệp**: Lập trình viên Reactjs, Nodejs.
 
 ---
